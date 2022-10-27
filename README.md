@@ -22,3 +22,16 @@ Basically a mix of various skins till i get something i like
   [osuskinner](https://osuskinner.com/)
 </details>
 
+<details>
+  <summary>bluwspirit's Moonshine 2.0 [NM] branch</summary>
+
+  [Moonshine 2.0 [NM] by bluwspirit](https://osu.ppy.sh/community/forums/topics/1610388?n=1)
+  
+  [clearblack by ononokie](https://osuskins.net/skin/lwteH8H)
+  
+  [Utsuho Don-Wada by Yomiell](https://osu.ppy.sh/community/forums/topics/36001?n=270)
+  
+  [osu! healthbar generator](https://agube.lu/generator/)
+  
+  [osuskinner](https://osuskinner.com/)
+</details>
